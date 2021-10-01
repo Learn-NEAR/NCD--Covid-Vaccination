@@ -68,7 +68,7 @@ Paso 3: Cree y realice una implementación de desarrollo de contrato inteligente
 
 Cree el código del contrato inteligente de CovidVaccination e implemente el servidor de desarrollo local: `yarn buil` (consulte` package.json` para obtener una lista completa de `scripts` que puede ejecutar con` yarn`). Este script le devuelve un contrato inteligente provisional implementado (guárdelo para usarlo más tarde). Para desplegar el contrato generado con `yarn buil` en testnet [https://wallet.testnet.near.org/], ejecutar el comando `yarn deploy` el cual nos regresará el id del contrato desplegado el cuál usaremos para ejecutar cada uno de los métodos que contiene el contrato.
 
-📑 Explorando los métodos de contrato inteligente NEARLancers
+📑 Explorando los métodos de contrato inteligente CovidVaccination
 ==================
 
 Los siguientes comandos le permiten interactuar con los métodos del contrato inteligente utilizando NEAR CLI (para esto, debe tener implementado un contrato inteligente provisional).
