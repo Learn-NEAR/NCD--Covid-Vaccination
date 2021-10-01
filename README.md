@@ -140,5 +140,7 @@ Utilice el siguiente comando para ejecutar las pruebas:
 
     yarn test
 
-🖥️ Interfáz gráfica de usuario
+🖥️ Mokups
 --------------------------------
+https://www.figma.com/file/8Q2xrTtygnwgQsy9YcVcqH/CovidVaccination?node-id=0%3A1
+
