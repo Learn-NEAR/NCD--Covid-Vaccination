@@ -1,0 +1,22 @@
+{
+  "name": "covidvaccination",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "build": "asb",
+    "test": "asp --nologo --verbose",
+    "clean": "rm -rf ./build",
+    "deploy": "near dev-deploy ./build/release/CovidVaccination.wasm"
+  },
+  "keywords": [],
+  "author": "musaqala.near",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/uuid": "^8.3.1",
+    "near-sdk-as": "^3.1.0"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2",
+    "uuidv4": "^6.2.12"
+  }
+}
