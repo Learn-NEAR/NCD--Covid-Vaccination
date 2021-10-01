@@ -144,3 +144,6 @@ Utilice el siguiente comando para ejecutar las pruebas:
 --------------------------------
 https://www.figma.com/file/8Q2xrTtygnwgQsy9YcVcqH/CovidVaccination?node-id=0%3A1
 
+🎬 Video
+--------------------------------
+https://www.loom.com/share/0de6381903034e7ba5148744f60cd0fb?sharedAppSource=personal_library
